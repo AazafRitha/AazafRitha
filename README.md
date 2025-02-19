@@ -42,6 +42,7 @@
 📫 Reach me at: [jamahiraazafritha@gmail.com](#)  
 💼 LinkedIn: [www.linkedin.com/in/aazaf-ritha](#)  
 🌍 GitHub: [github.com/AazafRitha](#)  
+🌍 Portfolio: **[Coming Soon]**  
 🚀 Always eager to collaborate on **open-source cybersecurity projects and security research**.  
 
 ---
