@@ -1,29 +1,49 @@
+# 👋 Hi there, I'm  
 
-Cybersecurity Enthusiast | BSc (Hons) in Information Technology Specialising in Cyber Security | Undergraduate at SLIIT UNI | Google Certified Cybersecurity Professional
+# 🔐 Aazaf Ritha  
+### | Cybersecurity Enthusiast | Ethical Hacker | Security Researcher  
 
-🚀 Passionate about securing digital ecosystems and mastering advanced cybersecurity techniques.
+**BSc (Hons) in Information Technology | Specializing in Cyber Security | Undergraduate at SLIIT**  
+**Google Certified Cybersecurity Professional**  
 
-💻 Skilled in Python, Linux, SQL, secure operating systems, networking, and cybersecurity research.
+🚀 Passionate about **securing digital ecosystems, mastering cybersecurity techniques, and ethical hacking**.  
+💡 Constantly exploring **new security challenges, penetration testing, and automation** to strengthen defenses against cyber threats.  
 
-🎓 Certified in cybersecurity through the Google Cybersecurity Professional Certificate, along with Linux, networking, and other domains.
+---
 
-📚 Currently honing skills in ethical hacking, Python automation, penetration testing, and bug bounties.
+## 🛠️ Skills & Expertise  
+🔹 **Cybersecurity & Ethical Hacking** – Network security, penetration testing, OSINT  
+🔹 **Secure Operating Systems** – Linux administration, security hardening  
+🔹 **Networking & Protocols** – Firewalls, IDS/IPS, VPN, Wireshark  
+🔹 **Scripting & Automation** – Python for cybersecurity, Bash scripting  
+🔹 **Database & Web Security** – SQL security, secure coding practices  
+🔹 **CTFs & Bug Bounties** – Exploiting vulnerabilities, real-world attack simulations  
 
-🌐 Areas of expertise include:
+---
 
-Secure Operating Systems
-Network Security and Protocols
-Linux Administration
-SQL and Database Security
-Python for Cybersecurity
-Ethical Hacking and Exploitation
+## 🏆 Certifications  
+✅ **Google Cybersecurity Professional Certificate**  
+✅ **Linux Administration & Security**  
+✅ **Cisco Introduction to Cybersecurity**
+✅ **Cisco Networking Basics**
+✅ **Cyber Threat Management**
+✅ **Introduction to IoT and Digital Transformation**
 
+---
 
-🎯 Goal: To become a professional cybersecurity expert and contribute to building safer digital environments globally.
+## 🎯 Current Goals  
+🌱 Sharpening my skills in **ethical hacking, penetration testing, Python automation, and bug bounty hunting**.  
+🛠️ Practicing **Hack The Box challenges, CTF competitions, and real-world security research**.  
+📖 Exploring **advanced networking, cybersecurity trends, trading, and Arabic**.  
 
-🌱 Currently Learning: Hack The Box challenges, Python scripting, advanced networking, trading, and Arabic.
+---
 
-🔗 Let’s Connect: Always eager to collaborate and contribute to open-source projects.
+## 🌐 Let's Connect  
+📫 Reach me at: [jamahiraazafritha@gmail.com](#)
+💼 LinkedIn: [www.linkedin.com/in/aazaf-ritha](#)  
+🌍 GitHub: [github.com/AazafRitha](#)  
+🚀 Always eager to collaborate on **open-source cybersecurity projects and security research**.  
 
+---
 
-
+⭐ **"Defending the digital world, one exploit at a time."**  
