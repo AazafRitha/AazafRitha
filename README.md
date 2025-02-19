@@ -24,10 +24,10 @@
 ## 🏆 Certifications  
 ✅ **Google Cybersecurity Professional Certificate**  
 ✅ **Linux Administration & Security**  
-✅ **Cisco Introduction to Cybersecurity**
-✅ **Cisco Networking Basics**
-✅ **Cyber Threat Management**
-✅ **Introduction to IoT and Digital Transformation**
+✅ **Cisco Introduction to Cybersecurity**  
+✅ **Cisco Networking Basics**  
+✅ **Cyber Threat Management**  
+✅ **Introduction to IoT and Digital Transformation**  
 
 ---
 
@@ -39,7 +39,7 @@
 ---
 
 ## 🌐 Let's Connect  
-📫 Reach me at: [jamahiraazafritha@gmail.com](#)
+📫 Reach me at: [jamahiraazafritha@gmail.com](#)  
 💼 LinkedIn: [www.linkedin.com/in/aazaf-ritha](#)  
 🌍 GitHub: [github.com/AazafRitha](#)  
 🚀 Always eager to collaborate on **open-source cybersecurity projects and security research**.  
