@@ -1,38 +1,33 @@
-<!--
-README.md - Professional GitHub Profile for Aazaf Ritha
-Instructions:
-1. Save your professional photo as `profile.jpg` and upload it to the root of this repository.
-   Example path (after upload): https://github.com/<your-username>/<your-username>/blob/main/profile.jpg
-2. Replace all occurrences of <your-username> and <your-medium-handle> with your actual handles.
-3. Commit this README.md to your profile repository (username/username) and verify rendering.
--->
 
-<table width="100%">
-  <tr>
-    <!-- Left Side: Text -->
-    <td width="62%" valign="middle" style="padding-right:24px;">
-      <h1 style="margin:0 0 8px 0;">Aazaf Ritha</h1>
-      <h3 style="margin:0 0 12px 0; font-weight:500;">Cybersecurity Enthusiast | Ethical Hacker | Security Researcher</h3>
-      <p style="margin:0 0 8px 0;">
-        <strong>BSc (Hons) in Information Technology – Specializing in Cyber Security</strong><br />
-        <em>Sri Lanka Institute of Information Technology (SLIIT)</em><br />
-        <strong>Google Certified Cybersecurity Professional</strong>
-      </p>
-      <p style="margin-top:12px; color:#555; max-width:720px;">
-        I am a cybersecurity undergraduate with practical experience in penetration testing, network defense,
-        cryptography, and vulnerability research. I focus on applying defensive controls, conducting ethical
-        offensive testing in isolated labs, and producing high-quality technical reports and reproducible playbooks.
-      </p>
-    </td>
-    <!-- Right Side: Profile Image -->
-    <td width="38%" align="right" valign="middle">
-      <img src="https://github.com/AazafRitha/AazafRitha/blob/main/AazafRitha/profile.jpg" 
-           alt="Aazaf Ritha" width="2064" height="3662" 
-           style="border-radius:8px; object-fit:cover; border:1px solid rgba(0,0,0,0.1);" />
-    </td>
-  </tr>
-</table>
 
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+
+  <!-- Left Side: Text -->
+  <div style="flex: 1; min-width: 300px; padding-right: 24px;">
+    <h1 style="margin:0 0 8px 0;">Aazaf Ritha</h1>
+    <h3 style="margin:0 0 12px 0; font-weight:500;">Cybersecurity Enthusiast | Ethical Hacker | Security Researcher</h3>
+
+    <p style="margin:0 0 8px 0;">
+      <strong>BSc (Hons) in Information Technology – Specializing in Cyber Security</strong><br />
+      <em>Sri Lanka Institute of Information Technology (SLIIT)</em><br />
+      <strong>Google Certified Cybersecurity Professional</strong>
+    </p>
+
+    <p style="margin-top:12px; color:#555; max-width:720px;">
+      I am a cybersecurity undergraduate with practical experience in penetration testing, network defense,
+      cryptography, and vulnerability research. I focus on applying defensive controls, conducting ethical
+      offensive testing in isolated labs, and producing high-quality technical reports and reproducible playbooks.
+    </p>
+  </div>
+
+  <!-- Right Side: Profile Image -->
+  <div style="flex: 0 0 220px; text-align: right;">
+    <img src="https://github.com/AazafRitha/AazafRitha/blob/main/profile.jpg?raw=true" 
+         alt="Aazaf Ritha" width="220" height="220" 
+         style="border-radius:8px; object-fit:cover; border:1px solid rgba(0,0,0,0.1);" />
+  </div>
+
+</div>
 
 ---
 
@@ -40,7 +35,7 @@ Instructions:
 
 <p>
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Metasploit-0078D6?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
