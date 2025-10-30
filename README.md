@@ -13,20 +13,17 @@ Instructions:
     <td width="62%" valign="middle" style="padding-right:24px;">
       <h1 style="margin:0 0 8px 0;">Aazaf Ritha</h1>
       <h3 style="margin:0 0 12px 0; font-weight:500;">Cybersecurity Enthusiast | Ethical Hacker | Security Researcher</h3>
-
       <p style="margin:0 0 8px 0;">
         <strong>BSc (Hons) in Information Technology – Specializing in Cyber Security</strong><br />
         <em>Sri Lanka Institute of Information Technology (SLIIT)</em><br />
         <strong>Google Certified Cybersecurity Professional</strong>
       </p>
-
       <p style="margin-top:12px; color:#555; max-width:720px;">
         I am a cybersecurity undergraduate with practical experience in penetration testing, network defense,
         cryptography, and vulnerability research. I focus on applying defensive controls, conducting ethical
         offensive testing in isolated labs, and producing high-quality technical reports and reproducible playbooks.
       </p>
     </td>
-
     <!-- Right Side: Profile Image -->
     <td width="38%" align="right" valign="middle">
       <img src="https://github.com/<your-username>/<your-username>/blob/main/profile.jpg?raw=true" 
