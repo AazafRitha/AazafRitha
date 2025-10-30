@@ -27,7 +27,7 @@ Instructions:
     <!-- Right Side: Profile Image -->
     <td width="38%" align="right" valign="middle">
       <img src="https://github.com/AazafRitha/AazafRitha/blob/main/AazafRitha/profile.jpg" 
-           alt="Aazaf Ritha" width="220" height="220" 
+           alt="Aazaf Ritha" width="2064" height="3662" 
            style="border-radius:8px; object-fit:cover; border:1px solid rgba(0,0,0,0.1);" />
     </td>
   </tr>
