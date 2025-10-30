@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://github.com/<your-username>/<your-username>/blob/main/profile.jpg" width="180" height="180" style="border-radius:50%; object-fit:cover;" alt="Aazaf Ritha Profile Photo"/>
+  <img src="https://github.com/AazafRitha/AazafRitha/blob/main/profile.jpg" width="180" height="180" style="border-radius:50%; object-fit:cover;" alt="Aazaf Ritha Profile Photo"/>
 </p>
 
 <h1 align="center">Aazaf Ritha</h1>
