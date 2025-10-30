@@ -1,33 +1,37 @@
+<!--
+README.md - Professional GitHub Profile for Aazaf Ritha (Table Layout Version)
+Instructions:
+1. Save your professional photo as `profile.jpg` and upload it to the root of this repository.
+   Example: https://github.com/AazafRitha/AazafRitha/blob/main/profile.jpg
+2. Replace <your-username> and <your-medium-handle> with your actual handles.
+3. Commit and refresh your GitHub profile page.
+-->
 
-
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-
-  <!-- Left Side: Text -->
-  <div style="flex: 1; min-width: 300px; padding-right: 24px;">
-    <h1 style="margin:0 0 8px 0;">Aazaf Ritha</h1>
-    <h3 style="margin:0 0 12px 0; font-weight:500;">Cybersecurity Enthusiast | Ethical Hacker | Security Researcher</h3>
-
-    <p style="margin:0 0 8px 0;">
-      <strong>BSc (Hons) in Information Technology – Specializing in Cyber Security</strong><br />
-      <em>Sri Lanka Institute of Information Technology (SLIIT)</em><br />
-      <strong>Google Certified Cybersecurity Professional</strong>
-    </p>
-
-    <p style="margin-top:12px; color:#555; max-width:720px;">
-      I am a cybersecurity undergraduate with practical experience in penetration testing, network defense,
-      cryptography, and vulnerability research. I focus on applying defensive controls, conducting ethical
-      offensive testing in isolated labs, and producing high-quality technical reports and reproducible playbooks.
-    </p>
-  </div>
-
-  <!-- Right Side: Profile Image -->
-  <div style="flex: 0 0 220px; text-align: right;">
-    <img src="https://github.com/AazafRitha/AazafRitha/blob/main/profile.jpg?raw=true" 
-         alt="Aazaf Ritha" width="220" height="220" 
-         style="border-radius:8px; object-fit:cover; border:1px solid rgba(0,0,0,0.1);" />
-  </div>
-
-</div>
+<table width="100%" style="border: none;">
+  <tr>
+    <!-- Left Side: Text -->
+    <td width="62%" valign="middle" style="padding-right:24px; border:none;">
+      <h1 style="margin:0 0 8px 0;">Aazaf Ritha</h1>
+      <h3 style="margin:0 0 12px 0; font-weight:500;">Cybersecurity Enthusiast | Ethical Hacker | Security Researcher</h3>
+      <p style="margin:0 0 8px 0;">
+        <strong>BSc (Hons) in Information Technology – Specializing in Cyber Security</strong><br />
+        <em>Sri Lanka Institute of Information Technology (SLIIT)</em><br />
+        <strong>Google Certified Cybersecurity Professional</strong>
+      </p>
+      <p style="margin-top:12px; color:#555; max-width:720px;">
+        I am a cybersecurity undergraduate with practical experience in penetration testing, network defense,
+        cryptography, and vulnerability research. I focus on applying defensive controls, conducting ethical
+        offensive testing in isolated labs, and producing high-quality technical reports and reproducible playbooks.
+      </p>
+    </td>
+    <!-- Right Side: Profile Image -->
+    <td width="38%" align="right" valign="middle" style="border:none;">
+      <img src="https://github.com/AazafRitha/AazafRitha/blob/main/AazafRitha/profile.jpg" 
+           alt="Aazaf Ritha" width="2064" height="3662" 
+           style="border-radius:8px; object-fit:cover; border:1px solid rgba(0,0,0,0.1);" />
+    </td>
+  </tr>
+</table>
 
 ---
 
