@@ -22,17 +22,20 @@ Instructions:
 
       <p style="margin-top:12px; color:#555; max-width:720px;">
         I am a cybersecurity undergraduate with practical experience in penetration testing, network defense,
-        cryptography and vulnerability research. I focus on applying defensive controls, conducting ethical
+        cryptography, and vulnerability research. I focus on applying defensive controls, conducting ethical
         offensive testing in isolated labs, and producing high-quality technical reports and reproducible playbooks.
       </p>
     </td>
 
     <!-- Right Side: Profile Image -->
     <td width="38%" align="right" valign="middle">
-      <img src="./profile.jpg" alt="Aazaf Ritha" width="220" height="220" style="border-radius:8px; object-fit:cover; border:1px solid rgba(0,0,0,0.08);" />
+      <img src="https://github.com/<your-username>/<your-username>/blob/main/profile.jpg?raw=true" 
+           alt="Aazaf Ritha" width="220" height="220" 
+           style="border-radius:8px; object-fit:cover; border:1px solid rgba(0,0,0,0.1);" />
     </td>
   </tr>
 </table>
+
 
 ---
 
